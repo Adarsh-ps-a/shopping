@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+SCSS Styles are Not yet done
+
 ## Available Scripts
 
 In the project directory, you can run:
